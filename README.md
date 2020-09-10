@@ -1,5 +1,4 @@
-# Codeigniter-HMVC
- Codeigniter-HMVC Extensions
+# Codeigniter-HMVC Extensions
 ================
 
 Forked from https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc
